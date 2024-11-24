@@ -82,7 +82,8 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 - Collaborated with engineers to troubleshoot and refine software.  
 - Led code reviews and mentored new developers.  
 
-### 🖥️ Programmer Analyst  
+### ![Government Icon](https://via.placeholder.com/150?text=Government+Icon)
+ Programmer Analyst  
 **Saskatchewan Government** - Regina, SK, Canada  
 *November 2012 to September 2016*
 
