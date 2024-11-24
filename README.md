@@ -132,9 +132,10 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 ## 🏅 Certifications
 
 - ![GitHub Certified: GitHub Actions](https://img.shields.io/badge/GitHub%20Certified-GitHub%20Actions-742774?style=flat&logo=powerapps&logoColor=white) *(October 06, 2024)*
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker Foundations Professional Certificate** *(June 05, 2024)*
 - ![Microsoft Certified: DevOps Engineer Expert](https://img.shields.io/badge/Microsoft%20Certified-DevOps%20Engineer%20Expert-742774?style=flat&logo=powerapps&logoColor=white) *(September 30, 2022)*
-- ![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-742774?style=flat&logo=microsoftazure&logoColor=white) *(August 30, 2022)*  
+- ![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-742774?style=flat&logo=microsoftazure&logoColor=white) *(August 30, 2022)*
+- ![GitHub Certified: GitHub Foundations](https://img.shields.io/badge/GitHub%20Certified-GitHub%20Foundations-742774?style=flat&logo=powerapps&logoColor=white) *(October 06, 2024)*
+- ![Docker Certified: Docker Foundations Professional Certificate](https://img.shields.io/badge/Docker%20Certified-Docker%20Foundations-0078D4?style=flat&logo=microsoftazure&logoColor=white) *(June 05, 2024)*  
 - ![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white) *(August 21, 2022)*  
 - ![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white) *(August 1, 2022)*  
 - ![Microsoft Certified: Power Platform Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Fundamentals-0078D4?style=flat&logo=powerapps&logoColor=white) *(July 29, 2022)*  
