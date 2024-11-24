@@ -63,8 +63,8 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 
 ## 💼 Work Experience
 
-### 🏦 Senior Software Developer  
-**Congressional Federal Credit Union** - Oakton, VA, USA  
+### Senior Software Developer  
+** 🏦 Congressional Federal Credit Union** - Oakton, VA, USA  
 *October 2023 to Present*
 
 - Execute full software development life cycle (SDLC).  
@@ -74,30 +74,30 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 - Integrate software components into a fully functional software system.  
 - Provide **Tier 3 Escalation Support** for our Digital Platform.  
 
-### 🌍 Senior Programmer Analyst  
-**Saskatchewan Government** - Regina, SK, Canada  
+### Senior Programmer Analyst  
+** 🏛️ Saskatchewan Government** - Regina, SK, Canada  
 *September 2016 to August 2023*
 
 - Designed and developed custom websites for government ministries.  
 - Collaborated with engineers to troubleshoot and refine software.  
 - Led code reviews and mentored new developers.  
 
-###  Programmer Analyst  
-**Saskatchewan Government** - Regina, SK, Canada  
+### Programmer Analyst  
+** 🏛️ Saskatchewan Government** - Regina, SK, Canada  
 *November 2012 to September 2016*
 
 - Built, tested, and deployed scheduled jobs, .NET applications.  
 - Resolved malfunctions through troubleshooting.  
 
-### 📱 iOS Developer  
-**GB Internet Solutions** - Regina, SK, Canada  
+### iOS Developer  
+** 🏢 GB Internet Solutions** - Regina, SK, Canada  
 *November 2010 to November 2012*
 
 - Maintained and updated mobile applications with iOS automatic patches.  
 - Integrated third-party APIs to shorten development time.  
 
-### 🎨 Interactive Media Developer  
-**Twisted Pair Productions** - Regina, SK, Canada  
+### Interactive Media Developer  
+** 🏢 Twisted Pair Productions** - Regina, SK, Canada  
 *July 2010 to November 2010*
 
 - Built iOS and BlackBerry mobile apps.  
@@ -129,46 +129,3 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 - **Microsoft Certified: Power Platform Fundamentals** *(July 29, 2022)*  
 - **Microsoft Certified: Azure Data Fundamentals** *(July 23, 2022)*  
 - **Microsoft Certified: Azure Fundamentals** *(July 2, 2022)*
-
-### General Icons
-- **Home**: ![Home Icon](https://via.placeholder.com/150?text=Home)
-- **Search**: ![Search Icon](https://via.placeholder.com/150?text=Search)
-- **Settings**: ![Settings Icon](https://via.placeholder.com/150?text=Settings)
-- **User**: ![User Icon](https://via.placeholder.com/150?text=User)
-- **Notification**: ![Notification Icon](https://via.placeholder.com/150?text=Notification)
-
-### Social Media Icons
-- **Facebook**: ![Facebook Icon](https://via.placeholder.com/150?text=Facebook)
-- **Twitter**: ![Twitter Icon](https://via.placeholder.com/150?text=Twitter)
-- **Instagram**: ![Instagram Icon](https://via.placeholder.com/150?text=Instagram)
-- **LinkedIn**: ![LinkedIn Icon](https://via.placeholder.com/150?text=LinkedIn)
-- **YouTube**: ![YouTube Icon](https://via.placeholder.com/150?text=YouTube)
-
-### Navigation Icons
-- **Arrow Up**: ![Arrow Up Icon](https://via.placeholder.com/150?text=Arrow+Up)
-- **Arrow Down**: ![Arrow Down Icon](https://via.placeholder.com/150?text=Arrow+Down)
-- **Arrow Left**: ![Arrow Left Icon](https://via.placeholder.com/150?text=Arrow+Left)
-- **Arrow Right**: ![Arrow Right Icon](https://via.placeholder.com/150?text=Arrow+Right)
-- **Menu**: ![Menu Icon](https://via.placeholder.com/150?text=Menu)
-
-### Communication Icons
-- **Phone**: ![Phone Icon](https://via.placeholder.com/150?text=Phone)
-- **Email**: ![Email Icon](https://via.placeholder.com/150?text=Email)
-- **Chat**: ![Chat Icon](https://via.placeholder.com/150?text=Chat)
-- **Help**: ![Help Icon](https://via.placeholder.com/150?text=Help)
-
-### File/Document Icons
-- **PDF**: ![PDF Icon](https://via.placeholder.com/150?text=PDF)
-- **Word**: ![Word Icon](https://via.placeholder.com/150?text=Word)
-- **Excel**: ![Excel Icon](https://via.placeholder.com/150?text=Excel)
-- **Folder**: ![Folder Icon](https://via.placeholder.com/150?text=Folder)
-
-### Other Icons
-- **Government**: ![Government Icon](https://via.placeholder.com/150?text=Government)
-- **Health**: ![Health Icon](https://via.placeholder.com/150?text=Health)
-- **Finance**: ![Finance Icon](https://via.placeholder.com/150?text=Finance)
-- **Education**: ![Education Icon](https://via.placeholder.com/150?text=Education)
-
-### Custom Icons
-For custom icons, replace the URL in `![Alt Text](URL)` with the specific link or file path.
-
