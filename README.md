@@ -45,7 +45,8 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
   Mac, CentOS, RHEL  
 
 - **Project Management Tools:**  
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)  
+  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+  ![Aha!](https://img.shields.io/badge/Aha!-0078D7?style=flat&logo=aha&logoColor=white)  
   BaseCamp, Asana, Aha!  
 
 - **Source Control Tools:**  
