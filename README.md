@@ -23,12 +23,7 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white)  
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftoffice&logoColor=white)  
-![Visual Basic 6](https://img.shields.io/badge/Visual%20Basic%206-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftoffice&logoColor=white)  ![Visual Basic 6](https://img.shields.io/badge/Visual%20Basic%206-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ### **Databases**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
