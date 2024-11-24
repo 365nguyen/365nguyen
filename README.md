@@ -75,7 +75,7 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 ## 💼 Work Experience
 
 ### Senior Software Developer  
-** 🏦 Congressional Federal Credit Union** - Oakton, VA, USA  
+**🏦Congressional Federal Credit Union** - Oakton, VA, USA  
 *October 2023 to Present*
 
 - Execute full software development life cycle (SDLC).  
@@ -86,7 +86,7 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 - Provide **Tier 3 Escalation Support** for our Digital Platform.  
 
 ### Senior Programmer Analyst  
-** 🏛️ Saskatchewan Government** - Regina, SK, Canada  
+**🏛️Saskatchewan Government** - Regina, SK, Canada  
 *September 2016 to August 2023*
 
 - Designed and developed custom websites for government ministries.  
@@ -94,21 +94,21 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 - Led code reviews and mentored new developers.  
 
 ### Programmer Analyst  
-** 🏛️ Saskatchewan Government** - Regina, SK, Canada  
+**🏛️Saskatchewan Government** - Regina, SK, Canada  
 *November 2012 to September 2016*
 
 - Built, tested, and deployed scheduled jobs, .NET applications.  
 - Resolved malfunctions through troubleshooting.  
 
 ### iOS Developer  
-** 🏢 GB Internet Solutions** - Regina, SK, Canada  
+**🏢GB Internet Solutions** - Regina, SK, Canada  
 *November 2010 to November 2012*
 
 - Maintained and updated mobile applications with iOS automatic patches.  
 - Integrated third-party APIs to shorten development time.  
 
 ### Interactive Media Developer  
-** 🏢 Twisted Pair Productions** - Regina, SK, Canada  
+**🏢Twisted Pair Productions** - Regina, SK, Canada  
 *July 2010 to November 2010*
 
 - Built iOS and BlackBerry mobile apps.  
