@@ -47,7 +47,7 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 - **Project Management Tools:**  
   ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
   ![Aha!](https://img.shields.io/badge/Aha!-0078D7?style=flat&logo=aha&logoColor=white)  
-  BaseCamp, Asana, Aha!  
+  BaseCamp, Asana 
 
 - **Source Control Tools:**  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
@@ -55,8 +55,9 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
   TFS, Subversion, Mercurial  
 
 - **CI/CD Tools:**  
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)  
-  Azure DevOps  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2088FF?style=flat&logo=azuredevops&logoColor=white)  
+  
 
 ---
 
