@@ -26,42 +26,22 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftoffice&logoColor=white)  ![Visual Basic 6](https://img.shields.io/badge/Visual%20Basic%206-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ### **Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
-![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
-![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=flat&logo=microsoftaccess&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)  ![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=flat&logo=microsoftaccess&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### **Reporting Tools**  
-![Microsoft Report Viewer (RDLC)](https://img.shields.io/badge/Microsoft%20Report%20Viewer-217346?style=flat&logo=microsoft&logoColor=white)  
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
-![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0CA5E2?style=flat&logo=sap&logoColor=white)  
-![EPPlus](https://img.shields.io/badge/EPPlus-217346?style=flat)
+![Microsoft Report Viewer (RDLC)](https://img.shields.io/badge/Microsoft%20Report%20Viewer-217346?style=flat&logo=microsoft&logoColor=white)  ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0CA5E2?style=flat&logo=sap&logoColor=white)  ![EPPlus](https://img.shields.io/badge/EPPlus-217346?style=flat)
 
 ### **Frameworks**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)  
-![Angular Material](https://img.shields.io/badge/Angular%20Material-DD0031?style=flat&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)  ![Angular Material](https://img.shields.io/badge/Angular%20Material-DD0031?style=flat&logo=angular&logoColor=white)
 
 ### **Operating Systems**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
-![Mac](https://img.shields.io/badge/Mac-000000?style=flat&logo=apple&logoColor=white)  
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)  
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  ![Mac](https://img.shields.io/badge/Mac-000000?style=flat&logo=apple&logoColor=white)  ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)  ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
 
 ### **Project Management Tools**  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)  
-![Aha!](https://img.shields.io/badge/Aha!-0C7DA0?style=flat&logo=aha&logoColor=white)  
-![BaseCamp](https://img.shields.io/badge/BaseCamp-62D287?style=flat&logo=basecamp&logoColor=white)  
-![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)  ![Aha!](https://img.shields.io/badge/Aha!-0C7DA0?style=flat&logo=aha&logoColor=white)  ![BaseCamp](https://img.shields.io/badge/BaseCamp-62D287?style=flat&logo=basecamp&logoColor=white)  ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
 
 ### **Source Control Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![TFS](https://img.shields.io/badge/TFS-2B579A?style=flat&logo=visualstudio&logoColor=white)  
-![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white)  
-![Mercurial](https://img.shields.io/badge/Mercurial-0C1A36?style=flat&logo=mercurial&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![TFS](https://img.shields.io/badge/TFS-2B579A?style=flat&logo=visualstudio&logoColor=white)  ![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white)  ![Mercurial](https://img.shields.io/badge/Mercurial-0C1A36?style=flat&logo=mercurial&logoColor=white)
 
 
 ---
