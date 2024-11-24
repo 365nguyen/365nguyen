@@ -1,7 +1,6 @@
 # 🌟 Minh Tuyen Nguyen - Senior Full Stack Software Developer
 
 Hi, I'm **Minh Tuyen Nguyen**, a Senior Full Stack Software Developer.  
-Take a look at my completed projects and prototypes, where you'll find evidence of my expertise, supported by a range of certifications. These include certifications from **Microsoft**, **GitHub**, **AWS**, **GCP**, **Oracle**, and **LinkedIn**.
 
 ---
 
