@@ -22,37 +22,53 @@ I excel in **C#, Visual Basic .Net, SQL, TypeScript, and Java**, and I’m known
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:**  
+## 🛠️ Technical Skills
+
+### **Programming Languages**  
+- 🖥️ **C#:**  
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
+- ☕ **Java:**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+- 🌀 **TypeScript:**  
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-  T-SQL, VBA, Visual Basic 6  
+- 📜 **T-SQL, VBA, Visual Basic 6**
 
-- **Databases:**  
+### **Databases**  
+- 🗄️ **SQL Server:**  
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
-  Azure Cosmos DB, MS Access, MySQL  
+- ☁️ **Azure Cosmos DB**  
+- 🗂️ **MS Access, MySQL**
 
-- **Reporting Tools:**  
-  Microsoft Report Viewer (RDLC), SSRS, Crystal Reports, EPPlus  
+### **Reporting Tools**  
+- 📊 **Microsoft Report Viewer (RDLC), SSRS, Crystal Reports, EPPlus**
 
-- **Frameworks:**  
+### **Frameworks**  
+- 🅰️ **Angular:**  
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+- ⚛️ **React:**  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-  Bootstrap, AngularJS, Angular Material  
+- 🖼️ **Bootstrap, AngularJS, Angular Material**
 
-- **Operating Systems:**  
+### **Operating Systems**  
+- 🪟 **Windows:**  
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
-  Mac, CentOS, RHEL  
+- 🍎 **Mac**  
+- 🐧 **CentOS, RHEL**
 
-- **Project Management Tools:**  
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+### **Project Management Tools**  
+- 🛠️ **Azure DevOps:**  
+  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)  
+- 💡 **Aha!:**  
   ![Aha!](https://img.shields.io/badge/Aha!-0078D7?style=flat&logo=aha&logoColor=white)  
-  BaseCamp, Asana 
+- 🏗️ **BaseCamp, Asana**
 
-- **Source Control Tools:**  
+### **Source Control Tools**  
+- 🐱 **GitHub:**  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+- 🌲 **Git:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  TFS, Subversion, Mercurial  
+- 🛠️ **TFS, Subversion, Mercurial**
+
 
 - **CI/CD Tools:**  
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
